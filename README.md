@@ -1,1 +1,4 @@
-# packaging
+# 打包项目
+```
+  基于webpack-simple建的一个空项目，专门用于打包插件使用
+```
